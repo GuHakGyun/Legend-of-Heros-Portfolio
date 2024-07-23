@@ -4,5 +4,5 @@
 | 사용기술 | 설명 |
 | ------------ | -------------------------------- |
 | Content Cell | Content Cellㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ|
-| Content Cell | Content Cellㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ|
+| Content Cell | Content Cellㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ|
 
