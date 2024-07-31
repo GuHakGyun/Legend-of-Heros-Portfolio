@@ -83,4 +83,4 @@
 <br/>
 
 # 7. 플레이 영상
-
+[유튜브](https://youtu.be/GhLzJXM_Vlc)
